@@ -1,0 +1,150 @@
+$fill_color: #4EC4C8;
+$white_color:#FFFFFF;
+$font_color:#FFFFFF;
+$background_color:#000000;
+$logo_font_size:5px;
+#info {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    padding: 5px;
+}
+.view {
+    #logo {
+        display: inline-block;
+        position: relative;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        max-height: 150px;
+        max-width: 150px;
+    }
+}
+.view {
+    #headline {
+        display: block;
+        position: relative;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        width: 100%;
+        height: 31px;
+    }
+}
+
+/***********************************/
+
+
+/*********** LOGO STYLES ***********/
+
+
+/***********************************/
+
+.st0 {
+    fill: $fill_color;
+}
+.st1 {
+    clip-path: url(#SVGID_2_);
+}
+.st2 {
+    clip-path: url(#SVGID_4_);
+}
+.st3 {
+    clip-path: url(#SVGID_6_);
+}
+.st4 {
+    clip-path: url(#SVGID_8_);
+}
+.schema_path {
+    fill: $white_color;
+}
+
+/***********************************/
+
+
+/***********************************/
+
+
+/***********************************/
+
+
+/*********** LOGO STYLES ***********/
+
+
+/***********************************/
+
+.st_0 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    stroke: #00FFFF;
+    stroke-miterlimit: 10;
+}
+.st_1 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #FFFFFF;
+}
+.st_2 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: url(#SVGID_1);
+}
+.st_3 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: url(#SVGID_2);
+}
+.subline {
+    font-family: 'CambriaiItalic', Helvetica, Verdana, Arial, TimesNewRoman;
+    font-size: 13px;
+    fill: #FFFFFF;
+    text-transform: uppercase;
+}
+
+/***********************************/
+
+
+/***********************************/
+
+#logo_text {
+    font-family: 'Niagara', Helvetica, Verdana, Arial, TimesNewRoman;
+    font-size: $logo_font_size;
+    margin: 10px 0px 10px 0px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 7px;
+}
+.supporting_copy {
+    display: inline-block;
+    position: relative;
+    font-family: 'CambriaRegular', Helvetica, Verdana, Arial, TimesNewRoman;
+    font-size: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 20px;
+    max-width: 330px;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}
+.enter_btn {
+    display: block;
+    position: relative;
+    font-family: 'AgencyRegular', Helvetica, Verdana, Arial, TimesNewRoman;
+    margin: 0 auto;
+    font-size: 19px;
+    color: $font_color;
+    border: 1px solid rgba(255, 255, 255, 1);
+    background-color: $background_color;
+    text-transform: uppercase;
+    padding-top: 3px;
+    width: 99px;
+    height: 33px;
+    cursor: pointer;
+    -webkit-transition: all 3s cubic-bezier(0, .61, .31, 1.01);
+    transition: all 3s cubic-bezier(0, .61, .31, 1.01);
+}
+.enter_btn:hover
+{
+    background-color: #4ec4c8;
+    border-color: #000000;
+    color: #000000;
+}
