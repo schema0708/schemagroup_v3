@@ -1,0 +1,192 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin" x="0px" y="0px" width="100%" height="100%" viewBox="0 0 296 177">
+<defs>
+<g id="Layer9_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 282 154
+L 283.6 152 13 152
+Q 15.35 154 15.5 154
+L 282 154 Z"/>
+</g>
+
+<g id="Layer7_0_FILL">
+<path fill="#000000" stroke="none" d="
+M 0 164.95
+L 4.9 169.9 9.9 164.95 4.9 160 0 164.95 Z"/>
+</g>
+
+<g id="Layer6_0_FILL">
+<path fill="#4EC4C8" stroke="none" d="
+M 177.5 89.15
+L 205.75 61.25 178.55 31.9 149.75 59.9 177.5 89.15 Z"/>
+</g>
+
+<g id="Layer5_0_FILL">
+<path fill="#4EC4C8" stroke="none" d="
+M 148.35 61.8
+L 119.55 89.8 147.3 119.05 175.55 91.15 148.35 61.8 Z"/>
+</g>
+
+<g id="Layer4_0_FILL">
+<path fill="#4EC4C8" stroke="none" d="
+M 90.5 58.55
+L 118.25 87.8 146.5 59.9 119.3 30.55 90.5 58.55 Z"/>
+</g>
+
+<g id="Layer3_0_FILL">
+<path fill="#4EC4C8" stroke="none" d="
+M 120.45 28.6
+L 148.2 57.85 176.45 29.95 149.25 0.6 120.45 28.6 Z"/>
+</g>
+
+<g id="Layer2_0_FILL">
+<path fill="#000000" stroke="none" d="
+M 295.9 164.95
+L 290.95 160 286 164.95 290.95 169.9 295.9 164.95 Z"/>
+</g>
+
+<g id="Layer1_0_FILL">
+<path fill="#000000" stroke="none" d="
+M 130.85 79.35
+Q 137.69375 85.3 146.9 85.3 156.865234375 85.3 164 78.4
+L 148.75 61.95 130.85 79.35
+M 146.9 35.85
+Q 138.5578125 35.85 132.15 40.65
+L 148.6 58 164.05 42.7
+Q 156.915625 35.85 146.9 35.85
+M 130.3 42.15
+Q 129.8603515625 42.5958984375 129.4 43.05 122.2 50.3 122.2 60.55 122.2 70.5603515625 129.05 77.65
+L 146.9 60.05 130.3 42.15
+M 165.75 76.5
+Q 171.65 69.7724609375 171.65 60.55 171.65 51.4458984375 165.9 44.7
+L 150.15 60.05 165.75 76.5
+M 164.4 43.05
+Q 164.234375 42.8853515625 164.05 42.7
+L 148.6 58 132.15 40.65
+Q 131.2212890625 41.3703125 130.3 42.15
+L 146.9 60.05 129.05 77.65
+Q 129.231640625 77.831640625 129.4 78 130.1111328125 78.7111328125 130.85 79.35
+L 148.75 61.95 164 78.4
+Q 164.1986328125 78.2029296875 164.4 78 165.1267578125 77.278125 165.75 76.5
+L 150.15 60.05 165.9 44.7
+Q 165.2103515625 43.8603515625 164.4 43.05 Z"/>
+</g>
+
+<g id="Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 153.45 44
+Q 149.25 44 146.25 46.45 143.3 48.8 142.9 52.5
+L 139.75 52.5
+Q 138.1 52.5 137.2 53.2 136.3 53.9 136.3 55.15 136.3 56.95 138.85 56.95
+L 143.85 56.95
+Q 144.65 58.4 146.4 60.35 148.9 63.15 149.7 64.5 150.45 65.8 150.45 67.45 150.45 70.05 148.55 71.95 146.7 73.85 144.15 73.85 141.85 73.85 140.35 72.4 138.85 70.95 138.85 68.75 138.85 67.35 139.7 65.95 140.55 64.5 141.85 63.7
+L 143.35 62.8
+Q 144.8 61.9 144.8 60.7 144.8 59.75 144.15 59.2 143.5 58.6 142.5 58.6 140.6 58.6 138.3 60.4 134 63.8 134 68.9 134 73.05 136.75 75.7 139.55 78.4 143.85 78.4 149.45 78.4 152.9 74.4 155.4 71.55 155.4 67.75 155.4 63.8 152.55 60.25
+L 149.85 56.95 151.7 56.95
+Q 155.6 56.95 157.4 55.8 160.5 53.85 160.5 50.2 160.5 47.45 158.55 45.75 156.55 44 153.45 44
+M 153.05 48.4
+Q 154.3 48.4 155.1 48.95 155.85 49.45 155.85 50.3 155.85 52.5 152.1 52.5
+L 147.65 52.5
+Q 147.75 50.9 149.4 49.65 151.05 48.4 153.05 48.4 Z"/>
+</g>
+
+<path id="Layer9_0_1_STROKES" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 13 152
+L 283.6 152 282 154 15.5 154
+Q 15.35 154 13 152 Z"/>
+
+<path id="Layer8_0_1_STROKES" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 14 176
+L 283.05 176"/>
+
+<path id="Layer7_0_1_STROKES" stroke="#4EC4C8" stroke-width="1" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 4.9 160
+L 9.9 164.95 4.9 169.9 0 164.95 4.9 160 Z"/>
+
+<path id="Layer6_0_1_STROKES" stroke="#4EC4C8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 149.75 59.9
+L 177.5 89.15 205.75 61.25 178.55 31.9 149.75 59.9 Z"/>
+
+<path id="Layer5_0_1_STROKES" stroke="#4EC4C8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 119.55 89.8
+L 147.3 119.05 175.55 91.15 148.35 61.8 119.55 89.8 Z"/>
+
+<path id="Layer4_0_1_STROKES" stroke="#4EC4C8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 90.5 58.55
+L 118.25 87.8 146.5 59.9 119.3 30.55 90.5 58.55 Z"/>
+
+<path id="Layer3_0_1_STROKES" stroke="#4EC4C8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 120.45 28.6
+L 148.2 57.85 176.45 29.95 149.25 0.6 120.45 28.6 Z"/>
+
+<path id="Layer2_0_1_STROKES" stroke="#4EC4C8" stroke-width="1" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 290.95 160
+L 295.9 164.95 290.95 169.9 286 164.95 290.95 160 Z"/>
+
+<path id="Layer1_0_1_STROKES" stroke="#4EC4C8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 129.075 77.65
+L 146.9 60.05 130.325 42.175
+M 164 78.4
+L 148.75 61.95 130.85 79.35
+M 132.15 40.675
+L 148.6 58 164.075 42.725
+M 165.925 44.7
+L 150.15 60.05 165.775 76.525"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer9_0_FILL"/>
+
+<use xlink:href="#Layer9_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer8_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer7_0_FILL"/>
+
+<use xlink:href="#Layer7_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer6_0_FILL"/>
+
+<use xlink:href="#Layer6_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer5_0_FILL"/>
+
+<use xlink:href="#Layer5_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer4_0_FILL"/>
+
+<use xlink:href="#Layer4_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer3_0_FILL"/>
+
+<use xlink:href="#Layer3_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_0_FILL"/>
+
+<use xlink:href="#Layer2_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer1_0_FILL"/>
+
+<use xlink:href="#Layer1_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+</g>
+</svg>
