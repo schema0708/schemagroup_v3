@@ -1,0 +1,117 @@
+@font-face {
+  font-family: "Niagara";
+  src: url("../fonts/NIAGSOL.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/NIAGSOL.eot?#iefix") format("embedded-opentype"), url("../fonts/NIAGSOL.woff") format("woff"), url("../fonts/NIAGSOL.ttf") format("truetype"), url("../fonts/NIAGSOL.svg#svgFontName") format("svg");
+  /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "CambriaiItalic";
+  src: url("../fonts/cambriai.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/cambriai.eot?#iefix") format("embedded-opentype"), url("../fonts/cambriai.woff") format("woff"), url("../fonts/cambriai.ttf") format("truetype"), url("../fonts/cambriai.svg#svgFontName") format("svg");
+  /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "CambriaRegular";
+  src: url("../fonts/cambria.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/cambria.eot?#iefix") format("embedded-opentype"), url("../fonts/cambria.woff") format("woff"), url("../fonts/cambria.ttf") format("truetype"), url("../fonts/cambria.svg#svgFontName") format("svg");
+  /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "AgencyRegular";
+  src: url("../fonts/agencyr.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/agencyr.eot?#iefix") format("embedded-opentype"), url("../fonts/agencyr.woff") format("woff"), url("../fonts/agencyr.ttf") format("truetype"), url("../fonts/agencyr.svg#svgFontName") format("svg");
+  /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal; }
+/* line 6, C:/Users/schemagroup/Documents/schemagroup_v3/css/_landing_page.scss */
+#info {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  padding: 5px; }
+
+/* line 13, C:/Users/schemagroup/Documents/schemagroup_v3/css/_landing_page.scss */
+.view #logo {
+  display: inline-block;
+  position: relative;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  max-height: 150px;
+  max-width: 150px; }
+
+/* line 23, C:/Users/schemagroup/Documents/schemagroup_v3/css/_landing_page.scss */
+.view #headline {
+  display: block;
+  position: relative;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  width: 100%;
+  height: 31px; }
+
+
+
+.enter_btn {
+  display: block;
+  position: relative;
+  font-family: 'AgencyRegular', Helvetica, Verdana, Arial, TimesNewRoman;
+  margin: 0 auto;
+  font-size: 19px;
+  color: #FFFFFF;
+  border: 1px solid white;
+  background-color: #000000;
+  text-transform: uppercase;
+  padding-top: 3px;
+  width: 99px;
+  height: 33px;
+  cursor: pointer;
+  -webkit-transition: all 3s cubic-bezier(0, 0.61, 0.31, 1.01);
+  transition: all 3s cubic-bezier(0, 0.61, 0.31, 1.01); }
+
+.enter_btn:hover {
+  background-color: #4ec4c8;
+  border-color: #000000;
+  color: #000000; }
+
+body {
+  font-family: Monospace;
+  font-size: 13px;
+  background-color: #000000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  margin: 0px;
+  overflow: hidden; }
+
+#container_view {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%; }
+
+.center-content
+{
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.view {
+  display: table-cell;
+  vertical-align: middle;
+  max-width: 557px;
+  max-height: 297px; }
+
+
+
+/*# sourceMappingURL=main.css.map */
